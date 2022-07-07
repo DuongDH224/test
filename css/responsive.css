@@ -1,0 +1,8 @@
+@media (max-width: 740px) {
+    header .nav li {
+        display: block;
+    }
+    header .logo-find {
+        display: none;
+    }
+}
